@@ -1,0 +1,90 @@
+{
+  "id": "personal-info-b1",
+  "title": "1.01 Persönliche Angaben",
+  "description": "Test your knowledge of basic personal information vocabulary in German (A1-B1 level)",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Was bedeutet 'geboren' auf Englisch?",
+      "options": ["married", "live", "born", "age"],
+      "answer": "born",
+      "explanation": {
+        "de": "'Geboren' bedeutet 'born'. Beispiel: 'Ich wurde am 10. Juni 1981 in Berlin geboren.'",
+        "fa": "'geboren' به معنی 'متولد شدن' است. مثال: 'من در ۱۰ ژوئن ۱۹۸۱ در برلین متولد شدم.'"
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Welcher Satz verwendet das Wort 'wohnen' korrekt?",
+      "options": [
+        "Ich wohne in einem kleinen Haus am See.",
+        "Ich wohne morgen Geburtstag.",
+        "Ich wohne eine Frau.",
+        "Ich wohne sehr alt."
+      ],
+      "answer": "Ich wohne in einem kleinen Haus am See.",
+      "explanation": {
+        "de": "'Wohnen' bedeutet 'to live' und wird mit Ortsangaben verwendet.",
+        "fa": "'wohnen' به معنی 'زندگی کردن' است و با مکان‌ها استفاده می‌شود."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "match-words",
+      "question": "Ordne die Wörter ihren englischen Übersetzungen zu.",
+      "options": {
+        "left": [
+          "die Hauptstadt",
+          "der Geburtstag",
+          "die Person",
+          "heiraten"
+        ],
+        "right": [
+          "capital city",
+          "birthday",
+          "person",
+          "marry"
+        ]
+      },
+      "answer": {
+        "die Hauptstadt": "capital city",
+        "der Geburtstag": "birthday",
+        "die Person": "person",
+        "heiraten": "marry"
+      },
+      "explanation": {
+        "de": "Diese Wörter sind grundlegende Begriffe für persönliche Informationen.",
+        "fa": "این کلمات، واژه‌های پایه برای اطلاعات شخصی هستند."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Was bedeutet 'die Dame'?",
+      "options": ["lady", "man", "girl", "boy"],
+      "answer": "lady",
+      "explanation": {
+        "de": "'Die Dame' ist eine höfliche Bezeichnung für eine Frau. Beispiel: 'Als Kind wollte ich immer eine richtige Dame sein.'",
+        "fa": "'die Dame' به معنی 'خانم' است و یک اصطلاح مؤدبانه برای اشاره به زنان است."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Welcher Satz verwendet 'Alter' richtig?",
+      "options": [
+        "Er hat sein Alter nicht verraten.",
+        "Das Alter ist eine schöne Stadt.",
+        "Ich habe drei Alter.",
+        "Sie Alter in Berlin."
+      ],
+      "answer": "Er hat sein Alter nicht verraten.",
+      "explanation": {
+        "de": "'Das Alter' bedeutet 'age' und wird verwendet, um über Lebensjahre zu sprechen.",
+        "fa": "'das Alter' به معنی 'سن' است و برای صحبت درباره سن افراد استفاده می‌شود."
+      }
+    }
+  ]
+}

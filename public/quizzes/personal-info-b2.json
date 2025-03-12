@@ -1,0 +1,72 @@
+{
+  "id": "personal-info-b2",
+  "title": "1.01 Persönliche Angaben - Aufbauwortschatz",
+  "description": "Advanced vocabulary for personal information in German (B2 level)",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Was bedeutet 'das Geschlecht'?",
+      "options": ["identity", "sex, gender", "name", "age"],
+      "answer": "sex, gender",
+      "explanation": {
+        "de": "'Das Geschlecht' bezieht sich auf das biologische oder soziale Geschlecht einer Person. Beispiel: 'Name, Alter, Geschlecht und Adresse müssen angegeben werden.'",
+        "fa": "'das Geschlecht' به معنی 'جنسیت' است و به جنسیت بیولوژیکی یا اجتماعی یک فرد اشاره دارد."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Welche Aussage über 'das Fräulein' ist korrekt?",
+      "options": [
+        "Früher nannte man unverheiratete Frauen 'Fräulein'.",
+        "Alle Frauen werden heute 'Fräulein' genannt.",
+        "'Fräulein' ist die moderne Anrede für verheiratete Frauen.",
+        "'Fräulein' bedeutet dasselbe wie 'Frau'."
+      ],
+      "answer": "Früher nannte man unverheiratete Frauen 'Fräulein'.",
+      "explanation": {
+        "de": "'Das Fräulein' ist eine veraltete Bezeichnung für unverheiratete Frauen, die heute kaum noch verwendet wird.",
+        "fa": "'das Fräulein' یک اصطلاح قدیمی برای زنان مجرد است که امروزه دیگر استفاده نمی‌شود."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Was bedeutet 'die Identität'?",
+      "options": ["identity", "age", "name", "address"],
+      "answer": "identity",
+      "explanation": {
+        "de": "'Die Identität' bezieht sich auf die Gesamtheit der Merkmale, die eine Person kennzeichnen. Beispiel: 'Die Identität der Täter konnte noch nicht festgestellt werden.'",
+        "fa": "'die Identität' به معنی 'هویت' است و به مجموعه ویژگی‌هایی اشاره دارد که یک فرد را مشخص می‌کنند."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Welcher Satz verwendet 'scheiden' korrekt?",
+      "options": [
+        "Seine Eltern haben sich vor drei Jahren scheiden lassen.",
+        "Er scheidet jeden Tag zur Arbeit.",
+        "Wir scheiden uns nächste Woche in Berlin.",
+        "Sie scheidet gerne Musik."
+      ],
+      "answer": "Seine Eltern haben sich vor drei Jahren scheiden lassen.",
+      "explanation": {
+        "de": "'Sich scheiden lassen' bedeutet 'to divorce' und wird verwendet, wenn eine Ehe rechtlich beendet wird.",
+        "fa": "'sich scheiden lassen' به معنی 'طلاق گرفتن' است و زمانی استفاده می‌شود که ازدواج به طور قانونی پایان می‌یابد."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Was bedeutet 'der Kerl'?",
+      "options": ["fellow, bloke", "lady", "child", "woman"],
+      "answer": "fellow, bloke",
+      "explanation": {
+        "de": "'Der Kerl' ist ein umgangssprachlicher Ausdruck für einen Mann. Beispiel: 'Er war ein kräftiger Kerl und sehr groß.'",
+        "fa": "'der Kerl' یک اصطلاح غیررسمی برای 'مرد' است. مثال: 'او یک مرد قوی و قد بلند بود.'"
+      }
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "classroom-b1",
+  "title": "Klassenzimmer Vokabeln B1",
+  "description": "Test your knowledge of classroom vocabulary in German (B1 level)",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Was benutzt man zum Schreiben an die Tafel?",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?auto=format&fit=crop&q=80&w=800",
+        "alt": "Chalk and blackboard"
+      },
+      "options": ["die Kreide", "der Bleistift", "der Kugelschreiber", "der Marker"],
+      "answer": "die Kreide",
+      "explanation": {
+        "de": "'Die Kreide' ist das traditionelle Werkzeug zum Schreiben an der Tafel.",
+        "fa": "'die Kreide' به معنی گچ است که برای نوشتن روی تخته سیاه استفاده می‌شود."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Welches Wort beschreibt einen Ort, wo Schüler ihre Bücher aufbewahren?",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?auto=format&fit=crop&q=80&w=800",
+        "alt": "School lockers"
+      },
+      "options": ["das Regal", "der Schrank", "die Tasche", "der Spind"],
+      "answer": "der Spind",
+      "explanation": {
+        "de": "'Der Spind' ist ein verschließbarer Schrank für persönliche Gegenstände in der Schule.",
+        "fa": "'der Spind' به معنی کمد قفل‌دار است که دانش‌آموزان وسایل شخصی خود را در آن نگهداری می‌کنند."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Was ist ein 'Overhead-Projektor'?",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?auto=format&fit=crop&q=80&w=800",
+        "alt": "Overhead projector in classroom"
+      },
+      "options": [
+        "Ein Gerät zum Projizieren von Folien",
+        "Eine Lampe an der Decke",
+        "Ein Fernseher",
+        "Ein Computer"
+      ],
+      "answer": "Ein Gerät zum Projizieren von Folien",
+      "explanation": {
+        "de": "Ein Overhead-Projektor wird verwendet, um transparente Folien an die Wand zu projizieren.",
+        "fa": "پروژکتور وسیله‌ای است که برای نمایش اسلایدهای شفاف روی دیوار استفاده می‌شود."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Was bedeutet 'der Stundenplan'?",
+      "options": [
+        "Eine Liste mit Hausaufgaben",
+        "Ein Plan mit Unterrichtszeiten",
+        "Ein Kalender",
+        "Eine Notenliste"
+      ],
+      "answer": "Ein Plan mit Unterrichtszeiten",
+      "explanation": {
+        "de": "Der Stundenplan zeigt, wann welche Fächer unterrichtet werden.",
+        "fa": "'der Stundenplan' به معنی برنامه کلاسی است که نشان می‌دهد هر درس چه زمانی تدریس می‌شود."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Was ist ein 'Klassenbuch'?",
+      "options": [
+        "Ein Schulbuch",
+        "Ein offizielles Dokument der Klasse",
+        "Ein Notizbuch",
+        "Ein Wörterbuch"
+      ],
+      "answer": "Ein offizielles Dokument der Klasse",
+      "explanation": {
+        "de": "Das Klassenbuch ist ein offizielles Dokument, in dem Anwesenheit und wichtige Ereignisse dokumentiert werden.",
+        "fa": "'das Klassenbuch' دفتر رسمی کلاس است که حضور و غیاب و وقایع مهم در آن ثبت می‌شود."
+      }
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Was bedeutet 'die Pause'?",
+      "options": [
+        "Eine Freistunde",
+        "Eine Unterbrechung zwischen Unterrichtsstunden",
+        "Ein Feiertag",
+        "Ein Schulausflug"
+      ],
+      "answer": "Eine Unterbrechung zwischen Unterrichtsstunden",
+      "explanation": {
+        "de": "'Die Pause' ist die Zeit zwischen den Unterrichtsstunden zur Erholung.",
+        "fa": "'die Pause' به معنی زنگ تفریح است، زمانی برای استراحت بین کلاس‌ها."
+      }
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Was ist 'die Tafel'?",
+      "options": [
+        "Eine Schreibfläche im Klassenzimmer",
+        "Ein Tisch",
+        "Ein Buch",
+        "Ein Fenster"
+      ],
+      "answer": "Eine Schreibfläche im Klassenzimmer",
+      "explanation": {
+        "de": "'Die Tafel' ist die große Schreibfläche vorne im Klassenzimmer.",
+        "fa": "'die Tafel' به معنی تخته‌ی کلاس است که در جلوی کلاس قرار دارد."
+      }
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Ein 'Whiteboard' ist eine weiße Tafel, auf der man mit Kreide schreibt.",
+      "answer": "Falsch",
+      "explanation": {
+        "de": "Auf einem Whiteboard schreibt man mit speziellen Markern, nicht mit Kreide.",
+        "fa": "روی وایت‌برد با ماژیک مخصوص می‌نویسند، نه با گچ."
+      }
+    },
+    {
+      "id": "q9",
+      "type": "match-words",
+      "question": "Ordne die Gegenstände ihrer Funktion zu.",
+      "options": {
+        "left": [
+          "Radiergummi",
+          "Lineal",
+          "Spitzer",
+          "Taschenrechner"
+        ],
+        "right": [
+          "Fehler entfernen",
+          "Linien zeichnen",
+          "Stifte schärfen",
+          "Rechnen"
+        ]
+      },
+      "answer": {
+        "Radiergummi": "Fehler entfernen",
+        "Lineal": "Linien zeichnen",
+        "Spitzer": "Stifte schärfen",
+        "Taschenrechner": "Rechnen"
+      },
+      "explanation": {
+        "de": "Diese Gegenstände sind wichtige Hilfsmittel im Unterricht.",
+        "fa": "این وسایل ابزارهای مهمی در کلاس درس هستند."
+      }
+    },
+    {
+      "id": "q10",
+      "type": "fill-blank",
+      "question": "Der Lehrer schreibt mit dem ____ an das Whiteboard.",
+      "answer": "Marker",
+      "explanation": {
+        "de": "Ein Marker ist der richtige Stift zum Schreiben auf einem Whiteboard.",
+        "fa": "ماژیک وسیله مناسب برای نوشتن روی وایت‌برد است."
+      }
+    }
+  ]
+}

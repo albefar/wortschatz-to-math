@@ -1,0 +1,106 @@
+{
+  "id": "countries-capitals",
+  "title": "Länder und Hauptstädte Quiz",
+  "description": "Teste dein Wissen über Welthauptstädte, indem du Länder ihren Hauptstädten zuordnest",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "match-words",
+      "question": "Ordne diese europäischen Länder ihren Hauptstädten zu",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1485081669829-bacb8c7bb1f3?auto=format&fit=crop&q=80&w=800",
+        "alt": "Map of Europe"
+      },
+      "options": {
+        "left": [
+          "France",
+          "Germany",
+          "Italy",
+          "Spain",
+          "Portugal"
+        ],
+        "right": [
+          "Paris",
+          "Berlin",
+          "Rome",
+          "Madrid",
+          "Lisbon"
+        ]
+      },
+      "answer": {
+        "France": "Paris",
+        "Germany": "Berlin",
+        "Italy": "Rome",
+        "Spain": "Madrid",
+        "Portugal": "Lisbon"
+      },
+      "explanation": "Dies sind die Hauptstädte der wichtigsten europäischen Länder."
+    },
+    {
+      "id": "q2",
+      "type": "match-words",
+      "question": "Ordne diese asiatischen Länder ihren Hauptstädten zu",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1493780474015-ba834fd0ce2f?auto=format&fit=crop&q=80&w=800",
+        "alt": "Map of Asia"
+      },
+      "options": {
+        "left": [
+          "Japan",
+          "China",
+          "South Korea",
+          "Vietnam",
+          "Thailand"
+        ],
+        "right": [
+          "Tokyo",
+          "Beijing",
+          "Seoul",
+          "Hanoi",
+          "Bangkok"
+        ]
+      },
+      "answer": {
+        "Japan": "Tokyo",
+        "China": "Beijing",
+        "South Korea": "Seoul",
+        "Vietnam": "Hanoi",
+        "Thailand": "Bangkok"
+      },
+      "explanation": "Dies sind die Hauptstädte der wichtigsten asiatischen Länder."
+    },
+    {
+      "id": "q3",
+      "type": "match-words",
+      "question": "Ordne diese amerikanischen Länder ihren Hauptstädten zu",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1589519160732-57fc498494f8?auto=format&fit=crop&q=80&w=800",
+        "alt": "Map of Americas"
+      },
+      "options": {
+        "left": [
+          "Brazil",
+          "Argentina",
+          "Mexico",
+          "Canada",
+          "Peru"
+        ],
+        "right": [
+          "Brasília",
+          "Buenos Aires",
+          "Mexico City",
+          "Ottawa",
+          "Lima"
+        ]
+      },
+      "answer": {
+        "Brazil": "Brasília",
+        "Argentina": "Buenos Aires",
+        "Mexico": "Mexico City",
+        "Canada": "Ottawa",
+        "Peru": "Lima"
+      },
+      "explanation": "Dies sind die Hauptstädte der wichtigsten amerikanischen Länder."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "demo-quiz",
+  "title": "Demo Quiz - Alle Fragetypen",
+  "description": "Dieses Quiz demonstriert alle verfügbaren Fragetypen und ihre Funktionen",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Welche dieser Farben ist eine Primärfarbe?",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&q=80&w=800",
+        "alt": "Color spectrum showing primary colors"
+      },
+      "options": [
+        "Grün",
+        "Lila",
+        "Blau",
+        "Orange"
+      ],
+      "answer": "Blau",
+      "explanation": "Blau ist eine der drei Primärfarben, zusammen mit Rot und Gelb."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Die Erde ist der dritte Planet von der Sonne.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?auto=format&fit=crop&q=80&w=800",
+        "alt": "Solar system illustration"
+      },
+      "answer": "Richtig",
+      "explanation": "Die Erde ist tatsächlich der dritte Planet von der Sonne, nach Merkur und Venus."
+    },
+    {
+      "id": "q3",
+      "type": "match-words",
+      "question": "Ordne die Länder ihren Hauptstädten zu",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&q=80&w=800",
+        "alt": "World map with capital cities marked"
+      },
+      "options": {
+        "left": [
+          "France",
+          "Germany",
+          "Italy",
+          "Spain"
+        ],
+        "right": [
+          "Paris",
+          "Berlin",
+          "Rome",
+          "Madrid"
+        ]
+      },
+      "answer": {
+        "France": "Paris",
+        "Germany": "Berlin",
+        "Italy": "Rome",
+        "Spain": "Madrid"
+      },
+      "explanation": "Jedes Land ist korrekt seiner Hauptstadt zugeordnet."
+    },
+    {
+      "id": "q4",
+      "type": "fill-blank",
+      "question": "Der größte Planet in unserem Sonnensystem ist _____.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?auto=format&fit=crop&q=80&w=800",
+        "alt": "Jupiter in space"
+      },
+      "answer": "Jupiter",
+      "explanation": "Jupiter ist der größte Planet in unserem Sonnensystem, mit einer Masse von mehr als dem Doppelten aller anderen Planeten zusammen."
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Welche Programmiersprache wurde von Brendan Eich entwickelt?",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&q=80&w=800",
+        "alt": "Programming code on a screen"
+      },
+      "options": [
+        {
+          "text": "Python",
+          "isCorrect": false
+        },
+        {
+          "text": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "text": "Java",
+          "isCorrect": false
+        },
+        {
+          "text": "Ruby",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "JavaScript wurde 1995 von Brendan Eich während seiner Arbeit bei Netscape entwickelt."
+    }
+  ]
+}

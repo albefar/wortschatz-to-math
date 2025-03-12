@@ -1,0 +1,54 @@
+{
+  "id": "9-03-koerperliche-taetigkeiten",
+  "title": "9.03 Körperliche Tätigkeiten",
+  "description": "Übungen zu körperlichen Tätigkeiten basierend auf Niveau A1-B1",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Am Ende der Vorstellung standen alle Gäste ____.",
+      "options": ["hin", "auf", "weg", "zurück"],
+      "answer": "auf",
+      "explanation": {"de": "Am Ende der Vorstellung standen alle Gäste auf.", "fa": "در پایان نمایش، همه مهمانان بلند شدند."}
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Bei dieser Übung --- Sie nahezu alle Muskeln Ihres Körpers.",
+      "options": ["drücken", "bewegen", "heben", "fallen"],
+      "answer": "bewegen",
+      "explanation": {"de": "Bei dieser Übung bewegen Sie nahezu alle Muskeln Ihres Körpers.", "fa": "در این تمرین تقریباً تمام عضلات بدن خود را حرکت می‌دهید."}
+    },
+    {
+      "id": "q3",
+      "type": "match-words",
+      "question": "Ordne die deutschen Wörter den persischen Bedeutungen zu.",
+      "options": {
+        "left": ["springen", "greifen", "schieben", "werfen"],
+        "right": ["پریدن", "گرفتن", "هل دادن", "پرتاب کردن"]
+      },
+      "answer": {
+        "springen": "پریدن",
+        "greifen": "گرفتن",
+        "schieben": "هل دادن",
+        "werfen": "پرتاب کردن"
+      },
+      "explanation": {"de": "Diese Bewegungen sind grundlegende körperliche Tätigkeiten.", "fa": "این حرکات فعالیت‌های فیزیکی اساسی هستند."}
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Beim Tennis ____ ich mit viel Kraft gegen den Ball.",
+      "options": ["drücke", "schlage", "ziehe", "stoße"],
+      "answer": "schlage",
+      "explanation": {"de": "Beim Tennis schlage ich mit viel Kraft gegen den Ball.", "fa": "در تنیس با قدرت زیاد به توپ ضربه می‌زنم."}
+    },
+    {
+      "id": "q5",
+      "type": "fill-blank",
+      "question": "Das Kind ist vom Fahrrad ____.",
+      "answer": "gefallen",
+      "explanation": {"de": "Das Kind ist vom Fahrrad gefallen.", "fa": "کودک از دوچرخه افتاد."}
+    }
+  ]
+}

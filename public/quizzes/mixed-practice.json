@@ -1,0 +1,105 @@
+{
+  "id": "mixed-practice",
+  "title": "Gemischte Übungen - Mixed Practice",
+  "description": "Practice with different question types including the new drag-and-drop format",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "drop-blank",
+      "text": "In Deutschland ist das Wetter sehr unterschiedlich. Im Sommer ___ die Sonne oft am ___ Himmel, aber manchmal gibt es auch ___ Tage mit viel Regen.",
+      "blanks": ["scheint", "blauen", "bewölkte"],
+      "options": ["scheint", "blauen", "bewölkte", "regnet"],
+      "explanation": {
+        "de": "Dieser Satz beschreibt typisches Sommerwetter in Deutschland: Die Sonne scheint (shines) am blauen (blue) Himmel, aber es gibt auch bewölkte (cloudy) Tage.",
+        "fa": "این جمله آب و هوای تابستان در آلمان را توصیف می‌کند: خورشید در آسمان آبی می‌درخشد، اما روزهای ابری هم وجود دارد."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "drop-blank",
+      "text": "Ich ___ gerne ___ und ___.",
+      "blanks": ["lese", "Bücher", "Zeitungen"],
+      "options": ["lese", "Bücher", "Zeitungen", "schreibe"],
+      "explanation": {
+        "de": "'Ich lese gerne Bücher und Zeitungen' bedeutet 'I like reading books and newspapers'.",
+        "fa": "این جمله به معنی 'من دوست دارم کتاب‌ها و روزنامه‌ها را بخوانم' است."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "drop-blank",
+      "text": "Meine ___ ist in der ___.",
+      "blanks": ["Schwester", "Schule"],
+      "options": ["Schwester", "Schule", "Bruder"],
+      "explanation": {
+        "de": "'Meine Schwester ist in der Schule' bedeutet 'My sister is at school'.",
+        "fa": "این جمله به معنی 'خواهر من در مدرسه است' می‌باشد."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "fill-blank",
+      "question": "Die Sonne scheint am ___.",
+      "answer": "Morgen",
+      "explanation": {
+        "de": "'Die Sonne scheint am Morgen' bedeutet 'The sun shines in the morning'.",
+        "fa": "این جمله به معنی 'خورشید در صبح می‌درخشد' است."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "match-words",
+      "question": "Ordne die Tageszeiten den passenden Aktivitäten zu.",
+      "options": {
+        "left": [
+          "Morgen",
+          "Mittag",
+          "Abend",
+          "Nacht"
+        ],
+        "right": [
+          "aufstehen",
+          "essen",
+          "fernsehen",
+          "schlafen"
+        ]
+      },
+      "answer": {
+        "Morgen": "aufstehen",
+        "Mittag": "essen",
+        "Abend": "fernsehen",
+        "Nacht": "schlafen"
+      },
+      "explanation": {
+        "de": "Diese Aktivitäten sind typisch für die verschiedenen Tageszeiten.",
+        "fa": "این فعالیت‌ها برای زمان‌های مختلف روز معمول هستند."
+      }
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Was bedeutet 'der Tagesablauf'?",
+      "options": [
+        "daily routine",
+        "weekend",
+        "holiday",
+        "free time"
+      ],
+      "answer": "daily routine",
+      "explanation": {
+        "de": "'Der Tagesablauf' beschreibt die täglichen Aktivitäten und Routinen.",
+        "fa": "'der Tagesablauf' به معنی 'برنامه روزانه' است و فعالیت‌های روزمره را توصیف می‌کند."
+      }
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "'Der Nachmittag' kommt nach 'der Vormittag'.",
+      "answer": "Richtig",
+      "explanation": {
+        "de": "Ja, der Nachmittag (afternoon) kommt nach dem Vormittag (morning).",
+        "fa": "بله، 'Nachmittag' (بعد از ظهر) بعد از 'Vormittag' (صبح) می‌آید."
+      }
+    }
+  ]
+}

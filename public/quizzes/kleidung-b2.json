@@ -1,0 +1,154 @@
+{
+  "id": "kleidung-b2",
+  "title": "Kleidung B2 - Advanced German Clothing Vocabulary",
+  "description": "Advanced clothing vocabulary and style expressions in German (B2 level)",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Welches Wort beschreibt den Stil und die Gestaltung von Kleidung?",
+      "options": ["das Muster", "die Mode", "das Gewebe", "der Schnitt"],
+      "answer": "die Mode",
+      "explanation": {
+        "de": "Die 'Mode' bezieht sich auf aktuelle Trends in der Bekleidungsindustrie. Ein Beispiel: 'Die neueste Mode ist oft sehr teuer.'",
+        "fa": "کلمه 'Mode' به معنی مد و ترندهای جاری در صنعت پوشاک است. مثال: 'Die neueste Mode ist oft sehr teuer' یعنی 'مد جدید اغلب خیلی گران است'."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Welches Material wird oft für Jacken und Mäntel verwendet?",
+      "options": ["der Kunststoff", "das Gewebe", "das Gold", "die Kette"],
+      "answer": "der Kunststoff",
+      "explanation": {
+        "de": "Kunststoff ist ein synthetisches Material, das oft für wetterfeste Kleidung wie Jacken verwendet wird.",
+        "fa": "'Kunststoff' به معنی پلاستیک یا مواد مصنوعی است که اغلب برای لباس‌های ضد آب مثل کاپشن استفاده می‌شود."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Welches Verb bedeutet 'Kleidung ausziehen'?",
+      "options": ["aufsetzen", "ablegen", "anziehen", "kombinieren"],
+      "answer": "ablegen",
+      "explanation": {
+        "de": "Das Verb 'ablegen' bedeutet, etwas abzunehmen oder auszuziehen. Beispiel: 'Nachdem sie das Haus betreten hatte, legte sie ihre Jacke ab.'",
+        "fa": "فعل 'ablegen' به معنی درآوردن یا خارج کردن لباس است. مثال: وقتی وارد خانه شد، کتش را درآورد."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Was beschreibt ein Material, das sehr hochwertig ist?",
+      "options": ["schmutzig", "aufwendig", "hochwertig", "konventionell"],
+      "answer": "hochwertig",
+      "explanation": {
+        "de": "Etwas 'hochwertig' ist von hoher Qualität. Beispiel: 'Der Anzug besteht aus hochwertigem Material.'",
+        "fa": "کلمه 'hochwertig' به معنی با کیفیت بالا است. مثال: این کت و شلوار از جنس مرغوب ساخته شده است."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "match-words",
+      "question": "Ordne die Begriffe den richtigen Bedeutungen zu.",
+      "options": {
+        "left": [
+          "der Anzug",
+          "das Hemd",
+          "die Kleidung",
+          "die Jacke"
+        ],
+        "right": [
+          "eine lange Oberbekleidung",
+          "ein Oberteil mit Knöpfen",
+          "alles, was man trägt",
+          "ein offizielles Kleidungsstück für Männer"
+        ]
+      },
+      "answer": {
+        "der Anzug": "ein offizielles Kleidungsstück für Männer",
+        "das Hemd": "ein Oberteil mit Knöpfen",
+        "die Kleidung": "alles, was man trägt",
+        "die Jacke": "eine lange Oberbekleidung"
+      },
+      "explanation": {
+        "de": "Diese Begriffe beschreiben verschiedene Arten von Kleidung: Ein Anzug ist formell, ein Hemd hat Knöpfe, Kleidung ist ein Oberbegriff, und eine Jacke trägt man über anderer Kleidung.",
+        "fa": "این اصطلاحات انواع مختلف لباس را توصیف می‌کنند: کت و شلوار رسمی است، پیراهن دکمه دارد، لباس یک اصطلاح کلی است و کت روی لباس‌های دیگر پوشیده می‌شود."
+      }
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Ein 'Muster' ist eine Farbe eines Kleidungsstücks.",
+      "options": ["Richtig", "Falsch"],
+      "answer": "Falsch",
+      "explanation": {
+        "de": "'Muster' bedeutet nicht Farbe, sondern ein Design oder eine Struktur auf Stoffen.",
+        "fa": "'Muster' به معنی رنگ نیست، بلکه به معنی طرح یا الگوی روی پارچه است."
+      }
+    },
+    {
+      "id": "q7",
+      "type": "fill-blank",
+      "question": "Mein Mantel besteht aus einem sehr hochwertigen ____.",
+      "answer": "Material",
+      "explanation": {
+        "de": "Ein Mantel kann aus verschiedenen Materialien bestehen. 'Material' beschreibt den Stoff oder die Substanz.",
+        "fa": "پالتو می‌تواند از مواد مختلفی ساخته شود. 'Material' به معنی ماده یا جنس است."
+      }
+    },
+    {
+      "id": "q11",
+      "type": "fill-blank",
+      "question": "Ich habe meine Schuhe nicht geputzt. Sie sind sehr __.",
+      "answer": "schmutzig",
+      "explanation": {
+        "de": "'Schmutzig' bedeutet 'dreckig' oder 'nicht sauber'. Beispiel: 'Die Schuhe sind sehr schmutzig und müssen geputzt werden.'",
+        "fa": "'Schmutzig' به معنی 'کثیف' یا 'تمیز نبودن' است. مثال: 'کفش‌ها خیلی کثیف هستند و باید تمیز شوند.'"
+      }
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "question": "Welche Eigenschaft hat ein Mantel für den Winter?",
+      "options": ["leicht", "kurz", "warm", "dünn"],
+      "answer": "warm",
+      "explanation": {
+        "de": "Ein Wintermantel sollte warm sein, damit er vor Kälte schützt. Beispiel: 'Dieser warme Mantel ist perfekt für den Winter.'",
+        "fa": "پالتوی زمستانی باید گرم باشد تا از سرما محافظت کند. مثال: 'این پالتوی گرم برای زمستان عالی است.'"
+      }
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "question": "Eine 'Kette' ist immer aus Gold. Wahr oder falsch?",
+      "options": ["Richtig", "Falsch"],
+      "answer": "Falsch",
+      "explanation": {
+        "de": "Eine Kette kann aus verschiedenen Materialien wie Silber, Plastik oder anderen Metallen bestehen, nicht nur aus Gold.",
+        "fa": "گردنبند می‌تواند از مواد مختلفی مانند نقره، پلاستیک یا فلزات دیگر ساخته شود، نه فقط از طلا."
+      }
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "question": "Was kann man mit verschiedenen Kleidungsstücken machen?",
+      "options": ["kombinieren", "zerreißen", "aufwendig machen", "schmutzig halten"],
+      "answer": "kombinieren",
+      "explanation": {
+        "de": "'Kombinieren' bedeutet, verschiedene Kleidungsstücke passend zusammenzustellen. Beispiel: 'Sie kann verschiedene Kleidungsstücke gut kombinieren.'",
+        "fa": "'Kombinieren' به معنی ست کردن و هماهنگ کردن لباس‌های مختلف است. مثال: 'او می‌تواند لباس‌های مختلف را خوب با هم ست کند.'"
+      }
+    },
+    {
+      "id": "q15",
+      "type": "fill-blank",
+      "question": "Mein Anzug ist __ als dein Anzug.",
+      "answer": "eleganter",
+      "explanation": {
+        "de": "Im Komparativ wird 'elegant' zu 'eleganter'. Das Adjektiv wird mit '-er' gesteigert. Beispiel: 'Sein Anzug ist eleganter als meiner.'",
+        "fa": "در حالت تفضیلی، 'elegant' به 'eleganter' تبدیل می‌شود. صفت با پسوند 'er-' افزایش می‌یابد. مثال: 'کت و شلوار او شیک‌تر از مال من است.'"
+      }
+    }
+  ]
+}

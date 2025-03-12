@@ -1,0 +1,153 @@
+{
+  "id": "1-02-staatsangehorigkeit-nationalitat",
+  "title": "1-02 Staatsangehörigkeit und Nationalität",
+  "description": "Practice with different question types based on nationalities and origins (A1-B1 level).",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Welche Sprache spricht man in Frankreich?",
+      "options": [
+        "Deutsch",
+        "Französisch",
+        "Italienisch",
+        "Spanisch"
+      ],
+      "answer": "Französisch",
+      "explanation": {
+        "de": "In Frankreich spricht man Französisch.",
+        "fa": "در فرانسه به زبان فرانسوی صحبت می‌شود."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Was ist die Hauptstadt von Deutschland?",
+      "options": [
+        "München",
+        "Berlin",
+        "Wien",
+        "Zürich"
+      ],
+      "answer": "Berlin",
+      "explanation": {
+        "de": "Die Hauptstadt von Deutschland ist Berlin.",
+        "fa": "پایتخت آلمان، برلین است."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Welches Land ist arabisch?",
+      "options": [
+        "Syrien",
+        "Österreich",
+        "Schweiz",
+        "Italien"
+      ],
+      "answer": "Syrien",
+      "explanation": {
+        "de": "Syrien ist ein arabisches Land.",
+        "fa": "سوریه یک کشور عربی است."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Was bedeutet 'die Heimat'?",
+      "options": [
+        "Das Ausland",
+        "Der Wohnort",
+        "Das Heimatland",
+        "Eine Stadt"
+      ],
+      "answer": "Das Heimatland",
+      "explanation": {
+        "de": "'Die Heimat' bedeutet das Land oder die Region, wo man herkommt.",
+        "fa": "'وطن' به معنی کشور یا منطقه‌ای است که فرد از آنجا آمده است."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Welche Sprache wird in der Schweiz gesprochen?",
+      "options": [
+        "Deutsch",
+        "Französisch",
+        "Italienisch",
+        "Alle drei"
+      ],
+      "answer": "Alle drei",
+      "explanation": {
+        "de": "In der Schweiz spricht man Deutsch, Französisch und Italienisch.",
+        "fa": "در سوئیس به زبان‌های آلمانی، فرانسوی و ایتالیایی صحبت می‌شود."
+      }
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Was bedeutet 'ursprünglich'?",
+      "options": [
+        "jetzt",
+        "früher",
+        "von Geburt an",
+        "bald"
+      ],
+      "answer": "von Geburt an",
+      "explanation": {
+        "de": "'Ursprünglich' bedeutet, woher jemand von Geburt an kommt.",
+        "fa": "'اصالتا' به معنی این است که کسی از ابتدا از کجا آمده است."
+      }
+    },
+    {
+      "id": "q7",
+      "type": "drop-blank",
+      "text": "Nach meinem Studium möchte ich ins ___.",
+      "blanks": ["Ausland"],
+      "options": ["Ausland", "Heimat", "Stadt", "Dorf"],
+      "explanation": {
+        "de": "'Nach meinem Studium möchte ich ins Ausland' bedeutet 'After my studies, I want to go abroad'.",
+        "fa": "بعد از تحصیلاتم می‌خواهم به خارج بروم."
+      }
+    },
+    {
+      "id": "q8",
+      "type": "match-words",
+      "question": "Ordne die Länder den passenden Nationalitäten zu.",
+      "options": {
+        "left": ["Deutschland", "Iran", "Frankreich", "Türkei"],
+        "right": ["Deutsch", "Iranisch", "Französisch", "Türkisch"]
+      },
+      "answer": {
+        "Deutschland": "Deutsch",
+        "Iran": "Iranisch",
+        "Frankreich": "Französisch",
+        "Türkei": "Türkisch"
+      },
+      "explanation": {
+        "de": "Diese Adjektive bezeichnen die Nationalitäten dieser Länder.",
+        "fa": "این صفت‌ها ملیت‌های این کشورها را مشخص می‌کنند."
+      }
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "question": "Die Bundesrepublik ist ein anderes Wort für Deutschland.",
+      "answer": "Richtig",
+      "explanation": {
+        "de": "'Die Bundesrepublik' ist eine offizielle Bezeichnung für Deutschland.",
+        "fa": "'جمهوری فدرال' نام رسمی کشور آلمان است."
+      }
+    },
+    {
+      "id": "q10",
+      "type": "fill-blank",
+      "question": "Der Mann kommt aus der Türkei. Er ist ___.",
+      "answer": "Türke",
+      "explanation": {
+        "de": "Ein Mann aus der Türkei ist ein Türke.",
+        "fa": "مردی که از ترکیه آمده است، 'Türke' نامیده می‌شود."
+      }
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "kleidung-b1",
+  "title": "Kleidung und Accessoires - Wortschatzquiz",
+  "description": "Test your knowledge of clothing and accessories vocabulary in German",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Welches Wort beschreibt eine Beschädigung in der Kleidung?",
+      "options": ["Material", "Loch", "Paar", "Größe"],
+      "answer": "Loch",
+      "explanation": {
+        "de": "Das Wort 'Loch' bedeutet eine Beschädigung oder ein Riss in der Kleidung. Zum Beispiel: 'Deine Hose hat ein großes Loch am Knie'",
+        "fa": "کلمه‌ی 'Loch' در زبان آلمانی به معنی سوراخ یا پارگی است. مثلاً: 'Deine Hose hat ein großes Loch am Knie' یعنی 'شلوارت در قسمت زانو یک سوراخ بزرگ دارد'."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Was bedeutet 'echt'?",
+      "options": ["schön", "fein", "wahr", "hoch"],
+      "answer": "wahr",
+      "explanation": {
+        "de": "Das Wort 'echt' bedeutet 'wahr' oder 'authentisch'. Zum Beispiel: 'Ist dieser Ring aus echtem Gold?'",
+        "fa": "کلمه‌ی 'echt' در زبان آلمانی به معنی 'واقعی' یا 'اصل' است. مثلاً: 'Ist dieser Ring aus echtem Gold?' یعنی 'آیا این حلقه از طلای اصل است؟'."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Welches Kleidungsstück trägt man oft bei einer Hochzeit?",
+      "options": ["die Hose", "das Kleid", "das Paar", "der Stoff"],
+      "answer": "das Kleid",
+      "explanation": {
+        "de": "'Das Kleid' ist ein formelles Kleidungsstück, das oft bei besonderen Anlässen wie Hochzeiten getragen wird.",
+        "fa": "در زبان آلمانی، 'das Kleid' به معنی 'لباس زنانه' است و معمولاً برای موقعیت‌های رسمی مانند عروسی پوشیده می‌شود."
+      }
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Welche Aussage ist richtig?",
+      "options": [
+        "Der Stoff passt mir hervorragend.",
+        "Diese Hose ist von hoher Qualität.",
+        "Meine Tasche ist ein Paar.",
+        "Das Kleid hat ein Material."
+      ],
+      "answer": "Diese Hose ist von hoher Qualität.",
+      "explanation": {
+        "de": "Der Satz 'Diese Hose ist von hoher Qualität' beschreibt die gute Beschaffenheit der Hose.",
+        "fa": "عبارت صحیح: 'Diese Hose ist von hoher Qualität' یعنی 'این شلوار از کیفیت بالایی برخوردار است'. 'Qualität' یعنی کیفیت."
+      }
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Was bedeutet 'reißen'?",
+      "options": ["anziehen", "kaputtgehen", "echt sein", "passen"],
+      "answer": "kaputtgehen",
+      "explanation": {
+        "de": "Das Verb 'reißen' bedeutet 'kaputtgehen' oder 'zerreißen'. Beispiel: 'Meine neue Hose ist schon gerissen'",
+        "fa": "فعل 'reißen' در آلمانی به معنی پاره شدن است. مثلاً: 'Meine neue Hose ist schon gerissen' یعنی 'شلوار جدیدم از قبل پاره شده است'."
+      }
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Welches Material wird oft für Kleidung verwendet?",
+      "options": ["Loch", "Größe", "Stoff", "Paar"],
+      "answer": "Stoff",
+      "explanation": {
+        "de": "'Stoff' bezeichnet das Material, aus dem Kleidung hergestellt wird. Beispiel: 'Das Kleid ist aus einem sehr leichten Stoff'",
+        "fa": "واژه‌ی 'Stoff' به معنی 'پارچه یا ماده' است و برای توصیف موادی که لباس از آن ساخته می‌شود، استفاده می‌شود. مثلاً: 'Das Kleid ist aus einem sehr leichten Stoff' یعنی 'این لباس از یک پارچه بسیار سبک ساخته شده است'."
+      }
+    },
+    {
+      "id": "q7",
+      "type": "match-words",
+      "question": "Ordne die Wörter den richtigen Bedeutungen zu.",
+      "options": {
+        "left": [
+          "Kleid",
+          "Material",
+          "Größe",
+          "passen"
+        ],
+        "right": [
+          "Kleidung",
+          "Substanz",
+          "Höhe",
+          "gut sitzen"
+        ]
+      },
+      "answer": {
+        "Kleid": "Kleidung",
+        "Material": "Substanz",
+        "Größe": "Höhe",
+        "passen": "gut sitzen"
+      },
+      "explanation": {
+        "de": "Diese Wörter beschreiben verschiedene Aspekte von Kleidung: 'Kleid' ist ein Kleidungsstück, 'Material' ist der Stoff, 'Größe' ist die Dimension, und 'passen' bedeutet, dass etwas gut sitzt.",
+        "fa": "این کلمات مرتبط با لباس و لوازم جانبی هستند. 'Kleid' یعنی لباس، 'Material' یعنی ماده، 'Größe' یعنی اندازه و 'passen' یعنی مناسب بودن یا اندازه بودن."
+      }
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Das Wort 'Paar' bedeutet nur eine einzelne Sache. Ist das richtig?",
+      "options": ["Wahr", "Falsch"],
+      "answer": "Falsch",
+      "explanation": {
+        "de": "'Paar' bedeutet immer zwei zusammengehörige Dinge, zum Beispiel: 'ein Paar Schuhe'",
+        "fa": "کلمه 'Paar' به معنی یک جفت (دو چیز که با هم هستند) است. مثلاً: 'ein Paar Schuhe' یعنی 'یک جفت کفش'. بنابراین این جمله نادرست است."
+      }
+    },
+    {
+      "id": "q9",
+      "type": "fill-blank",
+      "question": "Heute Abend ziehe ich ____ Kleid an.",
+      "answer": "das",
+      "explanation": {
+        "de": "'Kleid' ist ein neutrales Substantiv und verwendet daher den Artikel 'das'",
+        "fa": "کلمه 'Kleid' در آلمانی اسم خنثی است و بنابراین همراه با حرف تعریف 'das' می‌آید."
+      }
+    },
+    {
+      "id": "q10",
+      "type": "fill-blank",
+      "question": "Diese Hose ____ mir hervorragend.",
+      "answer": "passt",
+      "explanation": {
+        "de": "Das Verb 'passen' wird verwendet, wenn Kleidung die richtige Größe hat. Der korrekte Satz lautet: 'Diese Hose passt mir hervorragend.'",
+        "fa": "فعل 'passen' برای لباس استفاده می‌شود، وقتی که اندازه آن مناسب باشد. بنابراین شکل درست جمله: 'Diese Hose passt mir hervorragend.' یعنی 'این شلوار کاملاً به من اندازه است'."
+      }
+    }
+  ]
+}
